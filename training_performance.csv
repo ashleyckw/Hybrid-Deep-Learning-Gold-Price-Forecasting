@@ -1,0 +1,13 @@
+
+LSTM,3 minutes and 22.92 seconds
+LSTM-CNN,5 minutes and 11.14 seconds
+BiLSTM-CNN,9 minutes and 8.21 seconds
+LSTM-GRU,3 minutes and 53.36 seconds
+LSTM with New Features,3 minutes and 52.45 seconds
+LSTM-CNN with New Features,5 minutes and 5.70 seconds
+BiLSTM-CNN with New Features,10 minutes and 24.04 seconds
+LSTM-GRU with New Features,4 minutes and 25.09 seconds
+LSTM with PCA,3 minutes and 4.95 seconds
+LSTM-CNN with PCA,4 minutes and 34.75 seconds
+BiLSTM-CNN with PCA,3 minutes and 48.87 seconds
+LSTM-GRU with PCA,2 minutes and 47.18 seconds
