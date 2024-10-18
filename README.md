@@ -9,7 +9,7 @@ Hybrid deep learning models: LSTM, LSTM-CNN, BiLSTM-CNN, and LSTM-GRU
 Time series analysis with gold price data and economic indicators
 Hyperparameter tuning and optimization for improved model accuracy
 Anomaly detection using unsupervised learning techniques
-Predictive performance evaluated using MAE, MAPE, RMSE, and R²
+Predictive performance evaluated using MAE, MAPE, RMSE, and R².
 
 ## Key Models:
 * LSTM (Long Short-Term Memory)
